@@ -1,6 +1,3 @@
-<head>
-  <meta name="google-site-verification" content="kPWxxw647zwB2wSk0U49zKVKTEZngx-OYO-LEa3dXUU" />
-</head>
 # birthday-wishes-in-marathi
 **वाढदिवसाच्या हार्दिक शुभेच्छा: एक सुंदर लेख**
 
